@@ -312,37 +312,37 @@
       <a name="font" val="SansSerif bold 38"/>
       <a name="text" val="."/>
     </comp>
-    <comp lib="8" loc="(952,920)" name="Text">
-      <a name="font" val="SansSerif bold 26"/>
-      <a name="text" val="Split 4"/>
-    </comp>
-    <comp lib="8" loc="(954,1092)" name="Text">
-      <a name="font" val="SansSerif bold 26"/>
-      <a name="text" val="Split 5"/>
-    </comp>
-    <comp lib="8" loc="(954,1261)" name="Text">
-      <a name="font" val="SansSerif bold 26"/>
-      <a name="text" val="Split 6"/>
-    </comp>
-    <comp lib="8" loc="(954,180)" name="Text">
-      <a name="font" val="SansSerif bold 30"/>
-      <a name="text" val="Elapsed Time"/>
-    </comp>
-    <comp lib="8" loc="(954,410)" name="Text">
-      <a name="font" val="SansSerif bold 26"/>
-      <a name="text" val="Split 1"/>
-    </comp>
-    <comp lib="8" loc="(954,580)" name="Text">
+    <comp lib="8" loc="(950,1090)" name="Text">
       <a name="font" val="SansSerif bold 26"/>
       <a name="text" val="Split 2"/>
     </comp>
-    <comp lib="8" loc="(957,371)" name="Text">
+    <comp lib="8" loc="(950,1260)" name="Text">
+      <a name="font" val="SansSerif bold 26"/>
+      <a name="text" val="Split 1"/>
+    </comp>
+    <comp lib="8" loc="(950,180)" name="Text">
+      <a name="font" val="SansSerif bold 30"/>
+      <a name="text" val="Elapsed Time"/>
+    </comp>
+    <comp lib="8" loc="(950,410)" name="Text">
+      <a name="font" val="SansSerif bold 26"/>
+      <a name="text" val="Split 6"/>
+    </comp>
+    <comp lib="8" loc="(950,580)" name="Text">
+      <a name="font" val="SansSerif bold 26"/>
+      <a name="text" val="Split 5"/>
+    </comp>
+    <comp lib="8" loc="(950,920)" name="Text">
+      <a name="font" val="SansSerif bold 26"/>
+      <a name="text" val="Split 3"/>
+    </comp>
+    <comp lib="8" loc="(955,370)" name="Text">
       <a name="font" val="SansSerif bold 30"/>
       <a name="text" val="Split Time"/>
     </comp>
-    <comp lib="8" loc="(957,751)" name="Text">
+    <comp lib="8" loc="(955,750)" name="Text">
       <a name="font" val="SansSerif bold 26"/>
-      <a name="text" val="Split 3"/>
+      <a name="text" val="Split 4"/>
     </comp>
     <comp loc="(290,390)" name="Sign"/>
     <comp loc="(290,500)" name="Milli"/>
